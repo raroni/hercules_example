@@ -1,0 +1,8 @@
+{
+  "name": "hercules_test_app",
+  "version": "0.0.1",
+  "dependencies": {
+    "fleck": "0.5.1"
+  },
+  "main": "./main.js"
+}
